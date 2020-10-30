@@ -1,0 +1,311 @@
+[
+    {
+        "name": "Loco Guacamole",
+        "id": 1,
+        "type": "topping",
+        "vegan": true,
+        "desc": "Absolutely genius twist on such a timeless classic. The tomatoes really be doin some work in this one!",
+        "ingredients": [
+            "2 avocados",
+            "1/2 red onion",
+            "2 gloves of garlic",
+            "1/2 chili",
+            "8 babytomatoes (or 2 regular ones)",
+            "1/2 lime",
+            "Salt and pepper to taste"
+        ],
+        "instructions": [
+            "Mash avocados with a mashing device, i prefer a fork",
+            "Cut onions, garlic, chili and tomatoes into small pieces and blend em into the avocados",
+            "Squeeze half a lime and blend in whilst trapping to some Snoop Doggy Dogg",
+            "Season to taste with salt and pepper"
+        ]
+    },
+    {
+        "name": "Sweet Potato and Apple Hash",
+        "id": 2,
+        "type": "mixin",
+        "vegan": true,
+        "desc": "Sweet potatoes are my go-to taco punch-up. I thought: Hey, it's fall, I'm going to add an apple in there. Yeet.",
+        "ingredients": [
+            "2 Small sweet potatoes",
+            "1 Small apple",
+            "1-2 green chilies",
+            "A couple pinches of chili powder",
+            "A squeeze of honey",
+            "Tablespoon of butter (or olive oil for the vegans)",
+            "1/4 cups of water"
+        ],
+        "instructions": [
+            "Dice the sweet potatoes and apple into small cubes",
+            "Finely chop the chilies and garlic",
+            "Mix everything, except the butter/oil, into a pan and boil it all up until the water goes away",
+            "Toss in the butter/oil ",
+            "Continue to pan-fry until things get a little browned",
+            "Salt and pepper to taste"
+        ]
+    },
+    {
+        "name": "Fresh Salsa",
+        "id": 3,
+        "type": "topping",
+        "vegan": true,
+        "desc": "Super fresh and simple salsa to brighten up and add some color to your tacos",
+        "ingredients": [
+            "4 tomatoes",
+            "1/2 lime",
+            "1 clove of garlic",
+            "1/2 chili",
+            "1/2 cucumber",
+            "Fresh cilantro, finely chopped",
+            "Salt and pepper to taste"
+
+        ],
+        "instructions": [
+            "Cut tomatoes, onions, garlic, cucumber, chili, and cilantro into finelly chopped pieces. Mix it all together in a bowl",
+            "Add the juice of half a lime and season to taste",
+            "Serve immediately or refrigerate until needed"
+        ]
+    },
+    {
+        "name": "Raw Sriracha",
+        "id": 4,
+        "type": "topping",
+        "vegan": true,
+        "desc": "For anyone who loves spicy foods, this raw sriracha recipe is going to turn things up in the kitchen",
+        "ingredients": [
+            "1 red bell pepper, stem removed",
+            "1 jalapeño",
+            "1 small tomato",
+            "4 dates",
+            "3/4 cup sun-dried tomatoes",
+            "1/2 lemon, juiced",
+            "1 tbsp honey",
+            "1/4 tsp red pepper flakes (adjust to taste)"
+
+        ],
+        "instructions": [
+            "Combine all ingredients in a food processor or blender until well combined. If using sun-dried tomatoes that are very dry, soak for 30 minutes prior in cool water",
+            "Adjust red pepper to reflect your desired heat, go crazy!"
+        ]
+    },
+    {
+        "name": "Sweet Potato Tortillas",
+        "id": 5,
+        "type": "wrapping",
+        "vegan": true,
+        "desc": "Love sweet potatoes? Here's an exciting and fun way to enjoy them!",
+        "ingredients": [
+            "2 medium-sized sweet potatoes, peeled and diced (yields 1 cup mashed)",
+            "1 1/2 cup cassava flour, more if needed",
+            "1 tbsp arrowroot flour",
+            "1/2 cup chickpea flour",
+            "1/2 tsp sea salt",
+            "1/2 - 1 tbsp warm water, if needed"
+        ],
+        "instructions": [
+            "Place the sweet potatoes in. Cover with a lid and steam for 10-15 minutes, until tender. Remove and cool.",
+            "Place the sweet potatoes in a food processor and blend until smooth. Measure out 1 cup of sweet potato mash and leave the rest for another recipe.",
+            "Add the cup of sweet potato to a large bowl with the cassava flour, arrowroot flour, chickpea flour and sea salt. Using a potato masher, mash until you get a crumbly mixture. Set the potato masher aside and working with your hands, add water one tablespoon at a time while kneading. Depending on the moisture content of the flours and sweet potato mash you may not need to add any water at all. Knead the dough until it is smooth and uniform, about 3-5 minutes. The dough must not be sticky at all - if it is, add more cassava flour.",
+            "When ready, cut the dough into 4 even pieces. Working one piece at a time, roll each of them out between two sheets of parchment paper to 1/8 inch thick. Keep the remaining pieces in plastic wrap so that they don’t dry out. Remove the top sheet and place the lid of a saucepan (7 inches in diameter) on top. Circle around the lid with a knife to create a tortilla shape. Remove the excess dough.",
+            "Place a non-stick pan on medium-high heat. Flip the tortilla onto the pan and carefully remove the parchment paper right away. If you leave it for too long the paper might stick to the dough. Cook for 3-4 minutes on each side, until golden brown. Repeat with rest of the dough. Best kept at room temperature in an air-tight container.",
+            "Enjoy your sweet potato wrapped tacos!"
+        ]
+    },
+    {
+        "name": "Slow-Cooked Salsa Verde Chicken",
+        "id": 6,
+        "type": "protein",
+        "vegan": false,
+        "desc": "Low-effort, delicious shredded chicken. To minimize prep time, just toss in a jar of storebought salsa verde.",
+        "ingredients": [
+            "800g skinless chicken breasts",
+            "2 cups salsa verde",
+            "1 tsp minced garlic or 1/4 tsp garlic powder",
+            "Pinch of oregano",
+            "Pinch of cumin",
+            "Salt, to taste"
+        ],
+        "instructions": [
+            "Add chicken to slow cooker and season with garlic, oregano, cumin and salt. Pour salsa verde over everything, cover and cook for two hours on high.",
+            "Once that's ready, shred chicken. Give it another stir to cover everything in sauce, then serve"
+        ]
+    },
+    {
+        "name": "Sauteed Shitake Mushroom and Wasabi Salad",
+        "id": 7,
+        "type": "mixin",
+        "vegan": false,
+        "desc": "Sweet and salty all at the same time",
+        "ingredients": [
+            "1 cup dried shitake mushrooms",
+            "Splash of soy sauce",
+            "Splash of red wine vinegar",
+            "Splash of olive oil",
+            "Wasabi-covered sesame seeds (or a smidge of wasabi)",
+            "Pinch of salt"
+        ],
+        "instructions": [
+            "Place shitakes in a bowl and cover with warm water. Soak for about 20 minutes or until shitakes are completely rehydrated. Remove mushrooms and squeeze excess water from them. They don't need to be completely dry, but shouldn't be sopping wet.",
+            "Heat olive oil over medium-high heat in a small frying pan. Throw in soy sauce and red wine vinegar. How much depends on your taste. I would start with a tablespoon of each and adjust from there. I like the salad to be a bit more acidic so I tend to add a splash more of the red wine vinegar. Sauté mushrooms for a couple of minutes until they are heated through. Season to taste with salt. Adjust soy sauce and red wine vinegar as needed. Before serving, sprinkle a little bit of the wasabi-covered sesame seeds over the mushrooms to impart a little color, crunchiness, and heat. If you are unable to find wasabi-covered sesame seeds, a dab of wasabi and sprinkle of plain sesame seeds should do the trick.",
+            "Note: I keep dried shitakes as a staple in my pantry. I love the fact that the water left over after you rehydrate the mushrooms is called mushroom liquor. Mushroom liquor can be used as a substitute for broth or water in many recipes to impart an lovely mushroomy flavor."
+        ]
+    },
+    {
+        "name": "Baked Tilapia",
+        "id": 8,
+        "type": "protein",
+        "vegan": false,
+        "desc": "Oven fried fish for when you want to pretend you're eating healthier",
+        "ingredients": [
+            "1 pound mild fish (i usually use tilapia)",
+            "1 cup masa",
+            "2 tsp salt",
+            "1/2 to 1 tsp cayenne",
+            "2 tsp paprika",
+            "2 tsp chili powder",
+            "2 tsp garlic powder",
+            "1/2 to 1 tsp black pepper (to taste)",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Preheat oven to 400 degrees.",
+            "Mix dry ingredients in a bowl to make the coating for the fish.",
+            "Cut fish into slices or chunks, as your taste desires.",
+            "Drizzle olive oil over cut fish, and dip fish into breading.",
+            "Bake for 8ish minutes and finish, if you can, under the broiler."
+        ]
+    },
+    {
+        "name": "Garlic Black Beans",
+        "id": 9,
+        "type": "protein",
+        "vegan": true,
+        "desc": "Delicious black beans with a garlicy twist",
+        "ingredients": [
+            "1 can of plain black beans",
+            "3-6 cloves of garlic, finely chopped",
+            "Olive oil",
+            "Cumin",
+            "Cayenne or chipotle pepper (optional)",
+            "Lemon juice"
+        ],
+        "instructions": [
+            "Heat a tablespoon of olive oil in a saucepan over medium heat.",
+            "When olive oil starts to shimmer, add the garlic and let it simmer for about 10 seconds.",
+            "Add cumin and pepper (if wanted) and simmer for another 10 seconds.",
+            "Pour in the entire can of beans, don't drain or rinse them.",
+            "Simmer for about 15 minutes or until the bean broth has thickened to your liking.",
+            "Add a squeeze or two of lemon juice if you like."
+        ]
+    },
+    {
+        "name": "Roasted Tomatillo and Mushroom Sauce",
+        "id": 10,
+        "type": "topping",
+        "vegan": true,
+        "desc": "This sauce is definetely going to give your taco a nice kick!",
+        "ingredients": [
+            "2 pounds tomatillos",
+            "4 dried chipotle chilies",
+            "2 pounds shiitake mushrooms",
+            "Olive oil",
+            "1 cup water"
+        ],
+        "instructions": [
+            "Remove husks from tomatillos and rinse them. Place them whole on your oven's broiler rack. Broil and turn them until they're browned on all sides.",
+            "Boil the water. Drop in the dried chiles and bring the water down to a simmer. Keep them in until they are soft.",
+            "Slice the shiitakes and cook them in a pan with the olive oil until they're tender.",
+            "Take the chiles and tomatillos (once they're cooled off) and blend them in a food processor until they make a nice puree.",
+            "Put the blended tomatillo-chile mixture in a saucepan and bring it to a boil. Add the cooked mushrooms and bring it back to a boil. Then bring the heat down until the mixture is simmering. Cook for about 10 minutes. Add salt to taste."
+        ]
+    },
+    {
+        "name": "Fresh Corn Tortillas",
+        "id": 11,
+        "type": "wrapping",
+        "vegan": true,
+        "desc": "This is the only way to go. So worth it. Makes roughly 15 tortillas",
+        "ingredients": [
+            "1 3/4 cups masa harina",
+            "1 1/8 cups water"
+        ],
+        "instructions": [
+            "Remove husks from tomatillos and rinse them. Place them whole on your oven's broiler rack. Broil and turn them until they're browned on all sides.",
+            "Boil the water. Drop in the dried chiles and bring the water down to a simmer. Keep them in until they are soft.",
+            "Slice the shiitakes and cook them in a pan with the olive oil until they're tender.",
+            "Take the chiles and tomatillos (once they're cooled off) and blend them in a food processor until they make a nice puree.",
+            "Put the blended tomatillo-chile mixture in a saucepan and bring it to a boil. Add the cooked mushrooms and bring it back to a boil. Then bring the heat down until the mixture is simmering. Cook for about 10 minutes. Add salt to taste."
+        ]
+    },
+    {
+        "name": "Drunken Green Beans",
+        "id": 12,
+        "type": "mixin",
+        "vegan": true,
+        "desc": "Green beans are fine. Green beans cooked in beer are better. Maybe even the best",
+        "ingredients": [
+            "1 surly fist full of green beans",
+            "Half a beer",
+            "2 cloves garlic",
+            "Quarter cup vegetable broth",
+            "1 tbsp olive oil",
+            "Some salt, whatever"
+        ],
+        "instructions": [
+            "First peel and dice the garlic and sauté it in the olive oil. Before it gets all burned and ruined, add the beer and vegetable broth.",
+            "As the liquid comes to a boil, cut the green beans up. Add the green beans and a pinch of salt and let them simmer for about five minutes. If you like your beans on the softer side you can let it go a little longer. But the trick is to pull them right after the color starts to turn and you've just made a delicious addition to any taco."
+        ]
+    },
+    {
+        "name": "Green Chile Cabbage Salad with Seared Corn",
+        "id": 13,
+        "type": "mixin",
+        "vegan": true,
+        "desc": "Cabbage and corn comes together for a heartfelt duet",
+        "ingredients": [
+            "1 green cabbage",
+            "4 limes",
+            "2 ears corn, or roughly two cups of corn kernels (adjust to desired corn-y-ness)",
+            "Dried, Powdered New Mexico Green Chile, to taste",
+            "Salt, to tase",
+            "Olive oil",
+            "Optional: some crumbled cotija or queso Oaxaqueno"
+        ],
+        "instructions": [
+            "If using ears of corn, strip the kernels from them with a sharp knife.",
+            "Heat a few tablespoons of oil over high heat. I like to use a Dutch Oven for this, but the main cookware properties you want are heavy-bottomed and wide.",
+            "Toss the corn kernels in to the oil, spread them evenly, salt very lightly and let them ride. I highly recommend a splatter guard for this step, but not a lid. You want the corn to dry out just a little and get a good sear. It's done when it's starting to get dark, a little chewy, and probably is sticking to the pan.",
+            "While the corn is going, core and chop the cabbage in to wide strips.",
+            "How's the corn doing?",
+            "Juice the limes.",
+            "How's the corn doing? If it's not done yet, grab a beer and hang out till it is.",
+            "The corn is done? Great. Toss it on top of the cabbage. Add a little salt, then a good hit of olive oil, then half-or-so of the lime juice. Toss in a good tablespoon or two of the green chile powder. Start stirring.",
+            "You want everything coated nicely, but I don't like the salad too oily, so go easy on that. I add lime until the sour balances the sweet of the corn. I add green chile slowly -- it takes a second to rehydrate and get hot. I might add as much as a half cup of the stuff to a salad for myself or spicy food fans like me; I go easier on the spice-unenthused.",
+            "Serve it! If you're in to tossing a little cheese on there, do it -- but I usually just eat it straight. Sometimes this goes on fish or chicken tacos; sometimes it's a side to richer pork tacos. It's always awesome."
+        ]
+    },
+    {
+        "name": "Basic Shredded Chicken",
+        "id": 14,
+        "type": "protein",
+        "vegan": false,
+        "desc": "It's a savory, universal base. Once cooked, you can get creative with the spices!",
+        "ingredients": [
+            "4-5 lbs. boneless skinless chicken breast",
+            "1 can chicken broth",
+            "1 tsp chili powder",
+            "1/2 tsp cumin",
+            "1/2 tsp garlic powder",
+            "1/2 tsp oregano",
+            "Kosher salt",
+            "Black pepper"
+        ],
+        "instructions": [
+            "Salt the chicken breasts (be reasonably generous here), then crack some black pepper over each. In your crockpot, mix garlic powder, chili powder, cumin and oregano into the broth. Place chicken in crockpot, then cook on low for 8 hours.",
+            "When the chicken is done, attack each piece with two forks to shred. Do this on a Sunday and you'll have an easy time putting together meals throughout the week.",
+            "I often give this a quick simmer with a bit of water and universal taco seasoning for taco filling. Or throw it into tortilla soup. Or make some sweet taquitos. Or just add some barbecue sauce to a handful of chicken, and toss it onto a soft roll for a quick sandwich. Man can live on tacos alone, but one doesn't have to."
+        ]
+    }
+
+]
