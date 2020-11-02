@@ -1,5 +1,5 @@
 import React from 'react'
-import ActionButton from './ActionButton'
+import ActionButton from './common/ActionButton'
 
 import Tacodinner from '../assets/images/tacodinner.svg'
 import Tacodinner2 from '../assets/images/tacodinner2.svg'

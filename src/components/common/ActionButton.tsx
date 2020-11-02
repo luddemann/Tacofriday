@@ -13,7 +13,7 @@ const ActionButton = ({ onClick, isLoading }: Props) => {
             onClick={onClick}
             >
             {isLoading ? (
-                "Creating taco..."
+                <span className="text-xs">Creating taco..</span>
             ) : (
                 <> 
                 Create taco

@@ -1,5 +1,5 @@
 import React from 'react';
-import { MappedTacoRecipe } from '../types';
+import { MappedTacoRecipe } from '../../types';
 
 
 import RecipeListItem from './RecipeItem';

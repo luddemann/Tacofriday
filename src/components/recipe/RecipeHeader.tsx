@@ -2,9 +2,9 @@ import React from "react";
 import {
   MappedTacoRecipe,
   IngredientTypes
-} from "../types";
-import Text from "./common/Text";
-import CookingHat from '../assets/images/cookinghat.svg'
+} from "../../types";
+import Text from "../common/Text";
+import CookingHat from '../../assets/images/cookinghat.svg'
 
 
 interface Props {

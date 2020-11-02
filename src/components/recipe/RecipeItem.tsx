@@ -1,6 +1,6 @@
 import React from 'react';
-import { MappedTacoRecipe } from '../types';
-import Text from './common/Text'
+import { MappedTacoRecipe } from '../../types';
+import Text from '../common/Text'
 
 interface Props {
   recipe: MappedTacoRecipe,
@@ -21,18 +21,18 @@ const RecipeItem = ({recipe}: Props) => {
   const renderedInstructions = instructions.map((i) => {
     return (
       <ol className="list-none">
-        <li className="my-3">
-            {instructions.indexOf(i) + 1 + ". "} {i}
+        <li className="my-2">
+            <span className="font-semibold text-md mr-2"> {instructions.indexOf(i) + 1 + ". "} </span> {i}
         </li>
       </ol>
     )
   })
 
   return (
-    <section className="mb-20 lg:mb-0">
+    <article className="mb-20 lg:mb-0">
       <div className="">
-        <div className="mb-5 text-orange-500 uppercase tracking-widest flex items-center">
-           <span className="h-px w-8 bg-orange-500 mr-4" /> 
+        <div className="mb-5 text-orange-600 uppercase tracking-widest flex items-center">
+           <span className="h-px w-8 bg-orange-600 mr-4" /> 
            <p>{type}</p>
         </div>
         <div className="mb-6">
@@ -48,10 +48,10 @@ const RecipeItem = ({recipe}: Props) => {
         </div>
         <div className="">
           <Text as="h4" text="Instructions" className="text-gray-800 font-semibold italic text-lg" />
-          <div className="text-gray-700 my-5"> {renderedInstructions}  </div> 
+          <div className="text-gray-700 my-6"> {renderedInstructions}  </div> 
         </div>
       </div>
-    </section>
+    </article>
   );
 }
 
