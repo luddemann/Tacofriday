@@ -11,11 +11,11 @@ interface Props {
 
 const Hero = ({onClick, isLoading }: Props) => {
   return (
-    <div className='h-auto lg:pt-20 pb-24'>
+    <div className='h-auto pt-12 lg:pt-20 pb-24'>
       <div className='lg:flex items-center'>
         <div
           className='mx-auto text-center lg:text-left'
-          data-aos='fade-down-right'
+          data-aos='fade-right'
           data-aos-duration='1000'
         >
           <h1 className='text-5xl md:text-6xl lg:text-8xl font-hero font-black text-gray-700 uppercase leading-none transition duration-200'>
@@ -37,8 +37,8 @@ const Hero = ({onClick, isLoading }: Props) => {
           <img
             src={Tacodinner2}
             alt='Taco Dinner Illustration'
-            data-aos='fade-up-left'
-            data-aos-duration='1000'
+            data-aos='fade-left'
+            data-aos-duration='1500'
           />
         </div>
       </div>
